@@ -1,6 +1,6 @@
 # Portofolio
 This is my Portofolio:
-* Explorasi dan Analisis data Covid-19 di Indonesia (April 2022)
+* Explorasi dan Analisis data Covid-19 di Jawa Barat (April 2022)
 
 How To Reach Me :
 * Github : https://github.com/vidyaaprilia/
