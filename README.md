@@ -6,5 +6,6 @@ How To Reach Me :
 * Github : https://github.com/vidyaaprilia/
 * Linkedin : https://www.linkedin.com/in/fidyanti-aprilia/
 * Instagram : https://www.instagram.com/vidyaaprilia26/
+* Website : ttps://bit.ly/portofidy
 
 Terima Kasih.
